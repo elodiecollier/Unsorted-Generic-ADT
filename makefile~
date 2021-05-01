@@ -1,0 +1,6 @@
+compile:
+	g++ -o UnsortedList Student.cpp UnsortedListDriver.cpp
+run:
+	./UnsortedList
+clean:
+	rm *.o UnsortedList

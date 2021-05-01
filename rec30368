@@ -1,0 +1,18 @@
+project1:
+total 112
+-rw-r--r--. 1 myid   288 Feb  3 15:34 intcommands.txt
+-rw-r--r--. 1 myid   223 Feb  5 11:41 makefile
+-rw-r--r--. 1 myid   114 Feb  5 09:52 makefile~
+-rw-r--r--. 1 myid   201 Feb  5 11:41 outFile.txt
+-rwxr-xr-x. 1 myid 30696 Feb  5 09:38 project1
+-rw-r--r--. 1 myid   168 Feb  5 09:50 README
+-rw-r--r--. 1 myid     0 Jan 30 12:44 README~
+-rw-r--r--. 1 myid     0 Feb  5 11:41 rec30368
+-rw-r--r--. 1 myid   162 Feb  5 09:23 studcommands.txt
+-rw-r--r--. 1 myid   878 Feb  5 08:59 Student.cpp
+-rw-r--r--. 1 myid   441 Feb  4 17:18 Student.h
+-rwxr-xr-x. 1 myid 30792 Feb  5 11:41 UnsortedList
+-rw-r--r--. 1 myid  2363 Feb  4 14:14 UnsortedList.cpp
+-rw-r--r--. 1 myid  4543 Feb  5 09:22 UnsortedListDriver.cpp
+-rw-r--r--. 1 myid  2039 Feb  4 13:46 UnsortedList.h
+/home/myid/egc99826/project1:/home/myid/csci-2720c
